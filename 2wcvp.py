@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+## Copied from original work of D. Little at NYBG
 
 ### SAFE AND REQUIRED IMPORTS
 import ftfy
